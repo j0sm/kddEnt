@@ -1,3 +1,3 @@
-// function dropDown(element) {
-//     document.getElementById(element).classList.toggle('dropped');
-// };
+let approve = ((val) => {
+    console.log('test');
+})
