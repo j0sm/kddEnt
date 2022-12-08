@@ -1,3 +1,3 @@
-let approve = ((val) => {
+let approve = (() => {
     console.log('test');
 })
